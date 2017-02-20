@@ -1,4 +1,4 @@
 # REACTOR
-music visuals via Processing
+REACTOR is a music visualizer built with Processing. It uses an FFT to analyze frequencies and amplitudes in music to trigger rapid changes in scenes.
 
-Live demo available at: https://vimeo.com/203775758
+Watch REACTOR in action over at: https://vimeo.com/203775758
